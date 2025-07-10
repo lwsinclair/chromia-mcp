@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/chromindscan-chromia-mcp-badge.png)](https://mseep.ai/app/chromindscan-chromia-mcp)
+
 # Chromia MCP
 
 This tool that enables Claude AI to interact with Chromia Wallet for sending $CHR transactions.
